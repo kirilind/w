@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# auliwiki
+# Your wiki name
 
 
 <!--
